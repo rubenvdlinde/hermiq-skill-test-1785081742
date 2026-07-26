@@ -1,0 +1,15 @@
+{
+    "type": "hermiq.skill",
+    "version": "1.0",
+    "skills": [
+        {
+            "name": "Meeting Summariser",
+            "package": "---\nname: Meeting Summariser\ndescription: Summarises notes\n---\nSummarise the meeting notes and list the action items politely.\n"
+        }
+    ],
+    "provenance": {
+        "alg": "ed25519",
+        "publicKey": "St3OXdaZhLxSH3g46JlyCF7vgdCH9bMf9x8K\/wNV54Q=",
+        "signature": "UXoJS\/OVQx5GFCodEE0C2t3lAiWMiIeLjKy8oFoogvXEzT+imQ7rKLNW1Fc2ncZ6Iqq0i4EYPaD\/HOvrEu4uCA=="
+    }
+}
